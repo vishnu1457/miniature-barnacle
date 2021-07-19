@@ -1,1 +1,2 @@
-# miniature-barnacle
+# Number_guessing_game
+using c language
